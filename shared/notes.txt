@@ -1,0 +1,44 @@
+Criada pela microsoft e liderada por Anders Hejisberg - Lançada em 2012 para resolver problema do javascript
+"Como manter aplicações gigantescas sem perder produtividade?"
+
+Ele é um superset do javascript
+
+Quando js começou a ser usado para:
+
+-sistemas bancario
+-redes sociais
+-Saas
+-aplicações corporativas
+-plataformas em larga escala
+
+Filosofia da linguagem:
+
+Melhor experiencia para dev + menos erros + compatibilidade total js
+
+Paradigmas:
+
+-procedural
+-orientado a objetos
+-funcional
+-reativo
+
+
+Sistema de tipos
+
+-interfaces
+-type aliases
+-union types
+-intersection types
+-generics
+-utilibility types
+
+esses tipos existem apenas em tempo de compilação
+
+É single thread, mas depende do ambiente, se for navegador(workers) ou nodejs(event loop+worker thread+thread pool)
+
+Possui:
+-Decorators
+-Enums
+-Mapped types
+-conditional types
+
